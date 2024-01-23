@@ -1,0 +1,10 @@
+21  git commit -m "1st commit from mumbai"
+   22  git status
+   23  git log
+   24  git show 4099a76112b1e91c930d06e0aeff4c48ce7895d2
+   25  git remote add origin https://github.com/syamsandeep143/git-practice.git
+   26  git push -u origin main
+   27  git remote add origin https://github.com/syamsandeep143/git-practice.git
+   28  git push -u origin main
+   29  git remote add origin https://github.com/syamsandeep143/git-practice.git
+   30  git push -u origin master
